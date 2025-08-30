@@ -6,7 +6,7 @@ It works directly in the browser console while logged into [Discord Web](https:/
 ---
 [See the complete driver code here!](./counter.js)
 
-The following snippet is just a "Head & Tail" example.
+The following snippet is just a "Head and Tail" example.
 ```js
 (async () => {
   // Retrieve Discord token
